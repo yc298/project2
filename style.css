@@ -1,0 +1,60 @@
+
+
+.bg { 
+   
+    background-image: url("http://liffeycollege.ie/wp-content/uploads/2016/03/Sick-Leave2.jpg");
+    
+    height: 100%; 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    font-family: Oswald;
+    background-color: rgba(169,169,169,0.8);
+    text-align: left;
+    margin: 0px;
+    
+}
+
+
+.navbar {
+    position: absolute;
+    top: 20;
+    left: 50%;
+    margin-left: -150;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.option{
+     padding-left: 150px;
+}
+
+
+
+.title {
+    
+    font-size: 80;
+    color: white;
+    letter-spacing: 2;
+    position: absolute;
+    top: 25%; 
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.img {
+    display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(https://jpeg.org/images/jpeg2000-home.jpg) no-repeat;
+ 
+}
+
+
